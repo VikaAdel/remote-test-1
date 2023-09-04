@@ -3,10 +3,10 @@
 -3 -> нет
 7 -> нет */
 
-  
+
 
 Console.Write("Является ли число четным: ");
-int numberA = Convert.ToInt32(Console.ReadLine()); 
+int numberA = Convert.ToInt32(Console.ReadLine());
 
 
 int numberC = numberA % 2;
@@ -15,13 +15,13 @@ if (numberC == 0)
 
 {
     Console.WriteLine("Да");
-    }
+}
 
 else
 {
-    
+
     Console.WriteLine("Нет");
-    
+
 }
 
 
