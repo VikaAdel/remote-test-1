@@ -1,0 +1,15 @@
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.csproj.AssemblyReference.cache
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.AssemblyInfoInputs.cache
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.AssemblyInfo.cs
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.csproj.CoreCompileInputs.cache
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\bin\Debug\net6.0\Task_9_Online.exe
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\bin\Debug\net6.0\Task_9_Online.deps.json
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\bin\Debug\net6.0\Task_9_Online.runtimeconfig.json
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\bin\Debug\net6.0\Task_9_Online.dll
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\bin\Debug\net6.0\Task_9_Online.pdb
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.dll
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\refint\Task_9_Online.dll
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.pdb
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\Task_9_Online.genruntimeconfig.cache
+C:\Users\vikak\OneDrive\Рабочий стол\Seminar_1\Task_9_Online\obj\Debug\net6.0\ref\Task_9_Online.dll
